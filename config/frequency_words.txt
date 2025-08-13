@@ -66,6 +66,7 @@ deepmind
 chatgpt
 openai
 sora
+DeepSeek
 
 claude
 Anthropic
